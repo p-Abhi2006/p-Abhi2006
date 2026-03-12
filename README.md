@@ -1,10 +1,10 @@
 # Hi 👋 I'm Abhishek
 
-🎓 B.E Computer Science Student
-💻 Backend Developer (Learning Go)
-📚 Preparing for GATE
+🎓 B.E Computer Science Student  
+💻 Backend Developer (Learning Go)  
+📚 Preparing for GATE  
 
-I am a computer science student interested in **backend development, scalable systems, and cloud technologies**.
+I am a computer science student interested in **backend development, scalable systems, and cloud technologies**.  
 Currently building strong fundamentals in **Go, APIs, databases, and system design**.
 
 ---
@@ -12,59 +12,51 @@ Currently building strong fundamentals in **Go, APIs, databases, and system desi
 ## 🚀 Tech Stack
 
 ### Backend
-
-* Go (Golang)
-* REST API Development
+- Go (Golang)
+- REST API Development
 
 ### Web
-
-* HTML
-* CSS
-* JavaScript
+- HTML
+- CSS
+- JavaScript
 
 ### Database
-
-* PostgreSQL
-* MySQL
+- PostgreSQL
+- MySQL
 
 ### Tools
-
-* Git
-* GitHub
-* Postman
-* VS Code
-* Linux
+- Git
+- GitHub
+- Postman
+- VS Code
+- Linux
 
 ---
 
 ## 📌 Current Project
 
-### QuizArena
+### Expense Tracker (CLI Application)
 
-A **cloud-native competitive quiz platform** designed to simulate real-world competitive exams with ranking and analytics.
+A **command-line application for managing daily expenses**, designed to record and organize financial transactions efficiently.
 
-**Features**
+#### Features
+- Add daily expenses
+- View stored expenses
+- Categorize expenses (Food, Travel, etc.)
+- Persistent storage using file-based JSON data
 
-* User authentication
-* Competitive quizzes
-* Leaderboard system
-* Performance analytics
-
-**Tech Stack**
-
-* Go
-* PostgreSQL
-* Redis
-* Docker
+#### Tech Stack
+- Go (Golang)
+- JSON File Storage
 
 ---
 
 ## 📈 Currently Learning
 
-* Advanced Go Backend Development
-* Database Design & Optimization
-* System Design
-* Cloud & Containerization
+- Advanced Go Backend Development
+- Database Design & Optimization
+- System Design
+- Cloud & Containerization
 
 ---
 
@@ -76,7 +68,8 @@ To become a **strong backend engineer capable of building scalable and reliable 
 
 ## 📫 Connect With Me
 
-GitHub: https://github.com/p-Abhi2006
+GitHub:  
+https://github.com/p-Abhi2006
 
 ---
 
