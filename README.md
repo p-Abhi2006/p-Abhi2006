@@ -1,18 +1,18 @@
 # Hi 👋 I'm Abhishek
 
 🎓 B.E Computer Science Student  
-💻 Backend Developer (Learning Go)  
+💻 Backend Developer (Learning Java)  
 📚 Preparing for GATE  
 
 I am a computer science student interested in **backend development, scalable systems, and cloud technologies**.  
-Currently building strong fundamentals in **Go, APIs, databases, and system design**.
+Currently building strong fundamentals in **Java, APIs, databases, and system design**.
 
 ---
 
 ## 🚀 Tech Stack
 
 ### Backend
-- Go (Golang)
+- Java
 - REST API Development
 
 ### Web
@@ -35,25 +35,25 @@ Currently building strong fundamentals in **Go, APIs, databases, and system desi
 
 ## 📌 Current Project
 
-### Expense Tracker (CLI Application)
+### QuizArena (Web-Based Quiz Platform)
 
-A **command-line application for managing daily expenses**, designed to record and organize financial transactions efficiently.
+A **modern quiz application designed for interactive learning and competitive quiz sessions**, allowing users to participate in quizzes, track scores, and compete through leaderboard systems.
 
 #### Features
-- Add daily expenses
-- View stored expenses
-- Categorize expenses (Food, Travel, etc.)
-- Persistent storage using file-based JSON data
+- Interactive multiple-choice quizzes
+- Real-time score tracking
+- Leaderboard system
+- User authentication
+- Responsive user interface
 
 #### Tech Stack
-- Go (Golang)
-- JSON File Storage
-
----
-
+- React.js
+- Node.js & Express.js
+- PostgreSQL
+- JavaScript / CSS
 ## 📈 Currently Learning
 
-- Advanced Go Backend Development
+- Advanced Java Backend Development
 - Database Design & Optimization
 - System Design
 - Cloud & Containerization
